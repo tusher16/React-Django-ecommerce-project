@@ -1,1 +1,1 @@
-# React-Django-ecoomerce-project
+# React-Django-ecommerce-project
