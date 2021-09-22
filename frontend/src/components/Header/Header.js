@@ -1,11 +1,14 @@
-import React from 'react'
+import React from 'react';
+
+import Logo from '../../elements/Logo/Logo';
 
 function Header() {
     
     return (
         <div>
             <header>
-                Header
+            <Logo />
+                
             </header>
         </div>
     )
