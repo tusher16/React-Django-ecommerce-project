@@ -1,16 +1,15 @@
 import React from 'react';
 
-import Logo from '../../elements/Logo/Logo';
+import Nav_bar from '../../elements/Nav_bar/Nav_bar';
+
 
 function Header() {
     
     return (
-        <div>
-            <header>
-            <Logo />
-                
-            </header>
-        </div>
+        
+        <header>
+            <Nav_bar />
+        </header>
     )
 }
 
